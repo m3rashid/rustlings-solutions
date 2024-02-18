@@ -342,7 +342,7 @@ mod test {
                 number: 4,
                 important: false,
             },
-            ContextLine {
+					ContextLine {
                 line: "fn main() {".to_string(),
                 number: 5,
                 important: false,
